@@ -1,0 +1,301 @@
+*{    
+padding: 0;
+margin: 0;    
+box-sizing: border-box;
+}
+.top{
+    height: 460px;
+    width: 100%;
+   
+background-image: url("https://images.ctfassets.net/27hc2gu70btq/626x86LmkZuitdHHu1Cpfe/56bab9857f1ee70938260e10d9ea25f3/Order-Online_Banner-1600x464-v30.jpg");
+}
+
+.centet{
+    height: 700px;
+    width: 100%;
+    background: none;
+    background-image: url("white\ background2.avif");
+    
+}
+.zomato{
+    height: 300px;
+    width: 60%;
+    position: absolute;
+    top: 520px;
+    background: none; 
+    margin-left: 65px;
+
+
+}
+.zomato-img{
+height: 200px;
+width: 23%;
+osition: absolute;
+top: 2px;
+border-radius: 10px;
+background-image: url("https://images.ctfassets.net/27hc2gu70btq/4KHCRKTSDu3k56ZLrICdnC/904d0cdc25dc4036a9d892f070466a18/cc_delivery_zomato_logo.png?w=200&h=200&q=100&fm=webp");
+
+margin-left: 95px;
+}
+.zomato-text{
+height: 300px;
+width: 50%;
+background:none;
+margin-left: 420px;
+float: left;
+position: absolute;
+top: 1px;
+}
+.zomato-text h1{
+    color:black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 30px;
+    margin-top: 20px;
+}
+.zomato-text p{
+    margin-top: 30px;
+    font-size: 20px;
+    color: black;
+}
+.zomato-text h2{
+    font-size: 25px;
+    margin-top: 40px;
+
+}
+.zomato-text h2 :hover{
+    cursor: pointer;
+    color: blue;
+}
+
+
+
+
+.swiggy{
+    height: 300px;
+    width: 60%;
+    background: none;
+    position: absolute;
+    top: 860px;
+    margin-left: 65px;
+
+}
+.siggy-img{
+    height: 200px;
+    width: 23%;
+    border-radius: 10px;
+background-image: url("./Swiggy_logo.webp");
+
+margin-left: 95px;
+
+}
+.swiggy-text{
+height: 300px;
+width: 50%;
+background: none;
+margin-left: 420px;
+float: left;
+margin-top: -70.5%;
+position: absolute;
+top: 600px;
+
+}
+.swiggy-text h1{
+    color:black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 30px;
+    margin-top: 20px;
+}
+.swiggy-text p{
+    margin-top: 30px;
+    font-size: 20px;
+    color: black;
+}
+.swiggy-text h2{
+    font-size: 25px;
+    margin-top: 40px;
+
+}
+.swiggy-text h2 :hover{
+    cursor: pointer;
+    color: blue;
+}
+
+
+.top-border{
+    height: 100px;
+    width: 100%;
+    background:none;
+
+}
+.logo{
+    height: 100px;
+    width: 20%;
+    background: none;
+    float: left;
+
+}
+.logo img{
+    height: 8   0px;
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.top-menu{
+    height: 40px;
+    width: 80%;
+    background:none;
+    float: left;
+    padding: 5px;
+    margin-top: 0px;
+
+}
+.options{
+    height: 35px;
+    width: 145px;
+   font-weight: 700;
+    align-items: center;
+    border-radius: 10px;
+    color: #fff;
+    border: none;
+    background:none;
+    font-size: 20px;
+    margin-top: -100px;
+   
+}
+.options :hover{
+    cursor: pointer;
+    font-weight:bold ;
+}
+.option{
+    height: 35px;
+    width: 210px;
+    font-weight: 700;
+    align-items: center;
+    border-radius: 10px;
+    color: #fff;
+    border: none;
+    background:none ;
+    font-size: 20px;
+   
+}
+.option :hover{
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.text-box{
+    height: 300px;
+    width: 40%;
+    background:none;
+    margin-top: 50px;
+    margin-left: 85px;
+
+}
+.text-box h1{
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    ;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 60px;
+}
+.text-box p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+
+.botom-about{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(198, 4, 88);
+
+}
+
+.Costa-Coffee{
+    background:none;
+    height: 300px;
+    width: 20%;
+    float: left;
+    line-height: 50px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-family: tahoma;
+    margin-left: 30px;
+    margin-top: 40px;
+    color: #fff;
+
+}
+.Costa-Coffee h1{
+    font-size: 25px;
+}
+.Dietary-Information{
+    background:none;
+    height: 300px;
+    width: 20%;
+    float: left;
+    line-height: 50px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-family: tahoma;
+    margin-left: 30px;
+    margin-top: 40px;
+    color: #fff;
+
+}
+.Dietary-Information h1{
+    font-size: 25px;
+}
+.Behind-the-beans{
+    background: none;
+    height: 300px;
+    width: 20%;
+    float: left;
+    line-height: 50px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-family: tahoma;
+    margin-left: 30px;
+    margin-top: 40px;
+    color: #fff;
+
+}
+.Behind-the-beans h1{
+    font-size: 25px;
+}
+
+
+
+
+.policy-terms{
+    height: 180px;
+    width: 100%;
+    background-color: rgb(125, 43, 53);
+    
+}
+.about{
+    margin-left: 80ppx;
+}
+.policis h1{
+    font-size: 20px;
+    line-height: 60px;
+    margin-left:50px ;
+    color: #fff;
+}
+.icons{
+    font-size: 30px;
+    color: #fff;
+    margin-left: 90px;
+    letter-spacing: 30px;
+}
+.icons :hover{
+    color: aqua;
+    font-weight: 400;
+    font-size: 40px;
+}
